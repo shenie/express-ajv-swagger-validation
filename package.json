@@ -57,7 +57,7 @@
   "author": "Idan Tovi",
   "license": "Apache-2.0",
   "dependencies": {
-    "api-schema-builder": "^1.2.2",
+    "api-schema-builder": "git+https://github.com/shenie/api-schema-builder.git#tmp",
     "memoizee": "^0.4.14"
   },
   "devDependencies": {
